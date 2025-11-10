@@ -1,0 +1,434 @@
+[14-Jul-2025 08:00:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/index.php on line 7
+[14-Jul-2025 08:00:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/index.php on line 7
+[14-Jul-2025 08:07:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 28
+[14-Jul-2025 08:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php on line 7
+[14-Jul-2025 08:14:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php on line 7
+[14-Jul-2025 08:15:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php on line 7
+[14-Jul-2025 08:41:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:47:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:47:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:47:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:47:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:48:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php on line 7
+[14-Jul-2025 08:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:50:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 08:50:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 09:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 09:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 09:24:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 09:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 09:25:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 09:25:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 09:26:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 30
+[14-Jul-2025 09:34:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php on line 7
+[14-Jul-2025 09:37:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 40
+[14-Jul-2025 09:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 40
+[14-Jul-2025 09:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 40
+[14-Jul-2025 09:39:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/search.php on line 40
+[14-Jul-2025 10:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php on line 7
+[14-Jul-2025 10:22:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php on line 7
+[14-Jul-2025 10:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/view-patients.php on line 7
+[14-Jul-2025 11:17:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:17:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:19:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:23:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:23:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:23:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:23:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:23:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:40:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:55:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:55:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:55:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 6
+[14-Jul-2025 11:56:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 7
+[14-Jul-2025 11:56:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 7
+[14-Jul-2025 11:56:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 7
+[14-Jul-2025 11:56:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 7
+[14-Jul-2025 11:57:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 7
+[15-Jul-2025 15:59:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 7
+[15-Jul-2025 16:43:24 UTC] PHP Warning:  require_once(/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php): Failed to open stream: No such file or directory in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 10
+[15-Jul-2025 16:43:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 10
+[15-Jul-2025 17:07:00 UTC] PHP Fatal error:  Trait "Mpdf\Strict" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php on line 29
+[15-Jul-2025 17:07:33 UTC] PHP Warning:  require_once(/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/mpdf.php): Failed to open stream: No such file or directory in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 10
+[15-Jul-2025 17:07:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/mpdf.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 10
+[15-Jul-2025 17:08:15 UTC] PHP Fatal error:  Trait "Mpdf\Strict" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/src/Mpdf.php on line 29
+[15-Jul-2025 17:11:33 UTC] PHP Warning:  require_once(/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/vendor/autoload.php): Failed to open stream: No such file or directory in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 10
+[15-Jul-2025 17:11:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 10
+[15-Jul-2025 18:36:27 UTC] PHP Warning:  require_once(/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/vendor/autoload.php): Failed to open stream: No such file or directory in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 10
+[15-Jul-2025 18:36:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/register.dentalhospitalthailand.com/public_html/mpdf/vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 10
+[15-Jul-2025 18:49:54 UTC] PHP Parse error:  syntax error, unexpected identifier "first_name" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 60
+[15-Jul-2025 18:49:57 UTC] PHP Parse error:  syntax error, unexpected identifier "first_name" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 60
+[15-Jul-2025 19:00:26 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 77
+[22-Jul-2025 15:50:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 137
+[22-Jul-2025 15:51:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 137
+[22-Jul-2025 16:02:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 137
+[22-Jul-2025 16:05:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 137
+[22-Jul-2025 16:17:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 134
+[22-Jul-2025 16:40:21 UTC] PHP Notice:  Only variables should be passed by reference in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 52
+[22-Jul-2025 16:40:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 137
+[22-Jul-2025 17:45:23 UTC] PHP Parse error:  Unclosed '{' on line 30 does not match ')' in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 64
+[22-Jul-2025 17:59:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 156
+[22-Jul-2025 18:07:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 156
+[22-Jul-2025 18:22:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 155
+[22-Jul-2025 19:15:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 155
+[22-Jul-2025 19:25:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 156
+[25-Jul-2025 06:21:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 156
+[25-Jul-2025 06:27:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/process_form.php on line 156
+[25-Jul-2025 08:07:28 UTC] PHP Warning:  file_get_contents(form_background.jpg): Failed to open stream: No such file or directory in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 192
+[25-Jul-2025 08:07:28 UTC] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output (/home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php at line 192), unable to output PDF file in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9572
+Stack trace:
+#0 /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php(203): Mpdf\Mpdf->Output('Patient-Form-37...', 'I')
+#1 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 9572
+[25-Jul-2025 08:35:34 UTC] PHP Fatal error:  Uncaught Mpdf\MpdfException: Cannot find TTF TrueType font file "Sarabun-Regular.ttf" in configured font directories. in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Fonts/FontFileFinder.php:33
+Stack trace:
+#0 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(3889): Mpdf\Fonts\FontFileFinder->findFontFile('Sarabun-Regular...')
+#1 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(4184): Mpdf\Mpdf->AddFont('sarabun', '')
+#2 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(10989): Mpdf\Mpdf->SetFont('sarabun')
+#3 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(1506): Mpdf\Mpdf->SetDefaultFont('sarabun')
+#4 /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php(170): Mpdf\Mpdf->__construct(Array)
+#5 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Fonts/FontFileFinder.php on line 33
+[25-Jul-2025 08:36:59 UTC] PHP Fatal error:  Uncaught setasign\Fpdi\PdfParser\PdfParserException: Unable to find PDF file header. in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php:131
+Stack trace:
+#0 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php(172): setasign\Fpdi\PdfParser\PdfParser->resolveFileHeader()
+#1 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfReader/PdfReader.php(84): setasign\Fpdi\PdfParser\PdfParser->getPdfVersion()
+#2 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(237): setasign\Fpdi\PdfReader\PdfReader->getPdfVersion()
+#3 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(216): Mpdf\Mpdf->setSourceFileWithParserParams('/home/customer/...')
+#4 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(3192): Mpdf\Mpdf->setSourceFile('/home/customer/...')
+#5 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(13462): Mpdf\Mpdf->AddPage('P')
+#6 /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php(195): Mpdf\Mpdf->WriteHTML(' <body> <div cl...')
+#7 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php on line 131
+[28-Jul-2025 01:19:51 UTC] PHP Fatal error:  Uncaught setasign\Fpdi\PdfParser\PdfParserException: Unable to find PDF file header. in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php:131
+Stack trace:
+#0 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php(172): setasign\Fpdi\PdfParser\PdfParser->resolveFileHeader()
+#1 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfReader/PdfReader.php(84): setasign\Fpdi\PdfParser\PdfParser->getPdfVersion()
+#2 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(237): setasign\Fpdi\PdfReader\PdfReader->getPdfVersion()
+#3 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(216): Mpdf\Mpdf->setSourceFileWithParserParams('/home/customer/...')
+#4 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(3192): Mpdf\Mpdf->setSourceFile('/home/customer/...')
+#5 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(13462): Mpdf\Mpdf->AddPage('P')
+#6 /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php(195): Mpdf\Mpdf->WriteHTML(' <body> <div cl...')
+#7 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php on line 131
+[29-Jul-2025 01:19:32 UTC] PHP Fatal error:  Uncaught setasign\Fpdi\PdfParser\PdfParserException: Unable to find PDF file header. in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php:131
+Stack trace:
+#0 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php(172): setasign\Fpdi\PdfParser\PdfParser->resolveFileHeader()
+#1 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfReader/PdfReader.php(84): setasign\Fpdi\PdfParser\PdfParser->getPdfVersion()
+#2 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(237): setasign\Fpdi\PdfReader\PdfReader->getPdfVersion()
+#3 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(216): Mpdf\Mpdf->setSourceFileWithParserParams('/home/customer/...')
+#4 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(3192): Mpdf\Mpdf->setSourceFile('/home/customer/...')
+#5 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(13462): Mpdf\Mpdf->AddPage('P')
+#6 /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php(195): Mpdf\Mpdf->WriteHTML(' <body> <div cl...')
+#7 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php on line 131
+[30-Jul-2025 01:49:21 UTC] PHP Fatal error:  Uncaught setasign\Fpdi\PdfParser\PdfParserException: Unable to find PDF file header. in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php:131
+Stack trace:
+#0 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php(172): setasign\Fpdi\PdfParser\PdfParser->resolveFileHeader()
+#1 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfReader/PdfReader.php(84): setasign\Fpdi\PdfParser\PdfParser->getPdfVersion()
+#2 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(237): setasign\Fpdi\PdfReader\PdfReader->getPdfVersion()
+#3 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(216): Mpdf\Mpdf->setSourceFileWithParserParams('/home/customer/...')
+#4 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(3192): Mpdf\Mpdf->setSourceFile('/home/customer/...')
+#5 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(13462): Mpdf\Mpdf->AddPage('P')
+#6 /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php(195): Mpdf\Mpdf->WriteHTML(' <body> <div cl...')
+#7 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php on line 131
+[30-Jul-2025 07:21:31 UTC] PHP Fatal error:  Uncaught setasign\Fpdi\PdfParser\PdfParserException: Unable to find PDF file header. in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php:131
+Stack trace:
+#0 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php(172): setasign\Fpdi\PdfParser\PdfParser->resolveFileHeader()
+#1 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfReader/PdfReader.php(84): setasign\Fpdi\PdfParser\PdfParser->getPdfVersion()
+#2 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(237): setasign\Fpdi\PdfReader\PdfReader->getPdfVersion()
+#3 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(216): Mpdf\Mpdf->setSourceFileWithParserParams('/home/customer/...')
+#4 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(3192): Mpdf\Mpdf->setSourceFile('/home/customer/...')
+#5 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(13462): Mpdf\Mpdf->AddPage('P')
+#6 /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php(195): Mpdf\Mpdf->WriteHTML(' <body> <div cl...')
+#7 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php on line 131
+[30-Jul-2025 07:22:28 UTC] PHP Fatal error:  Uncaught setasign\Fpdi\PdfParser\PdfParserException: Unable to find PDF file header. in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php:131
+Stack trace:
+#0 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php(172): setasign\Fpdi\PdfParser\PdfParser->resolveFileHeader()
+#1 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfReader/PdfReader.php(84): setasign\Fpdi\PdfParser\PdfParser->getPdfVersion()
+#2 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(237): setasign\Fpdi\PdfReader\PdfReader->getPdfVersion()
+#3 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/FpdiTrait.php(216): Mpdf\Mpdf->setSourceFileWithParserParams('/home/customer/...')
+#4 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(3192): Mpdf\Mpdf->setSourceFile('/home/customer/...')
+#5 /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/mpdf/mpdf/src/Mpdf.php(13462): Mpdf\Mpdf->AddPage('P')
+#6 /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php(195): Mpdf\Mpdf->WriteHTML(' <body> <div cl...')
+#7 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/vendor/setasign/fpdi/src/PdfParser/PdfParser.php on line 131
+[30-Jul-2025 07:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf\Config\ConfigVariables" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:172
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 172
+[30-Jul-2025 07:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf\Config\ConfigVariables" not found in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 177
+[01-Aug-2025 07:03:07 UTC] PHP Parse error:  syntax error, unexpected identifier "bing" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 178
+[01-Aug-2025 08:39:53 UTC] PHP Parse error:  syntax error, unexpected identifier "title" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 185
+[01-Aug-2025 10:11:01 UTC] PHP Parse error:  syntax error, unexpected identifier "hn_number" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 121
+[01-Aug-2025 11:12:25 UTC] PHP Warning:  Undefined array key "fontdata" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 134
+[01-Aug-2025 11:12:25 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null + array in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 135
+[01-Aug-2025 11:16:02 UTC] PHP Warning:  Undefined array key "fontData" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 127
+[01-Aug-2025 11:16:02 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null + array in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 130
+[01-Aug-2025 11:30:18 UTC] PHP Warning:  Undefined array key "fontData" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 133
+[01-Aug-2025 11:30:18 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null + array in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 134
+[07-Aug-2025 04:29:31 UTC] PHP Parse error:  syntax error, unexpected identifier "prename" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 96
+[07-Aug-2025 04:31:46 UTC] PHP Parse error:  syntax error, unexpected identifier "prename" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 96
+[07-Aug-2025 04:31:50 UTC] PHP Parse error:  syntax error, unexpected identifier "prename" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 96
+[07-Aug-2025 06:57:48 UTC] PHP Parse error:  syntax error, unexpected identifier "title" in /home/customer/www/register.dentalhospitalthailand.com/public_html/generate_pdf.php on line 96
